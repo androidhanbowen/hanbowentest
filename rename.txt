@@ -6,4 +6,5 @@ asdsdl
 
 
 
-阿萨斯的；拉萨的快乐撒的那里看到你我i哦亲你的我父母哇；歷史蒂芬尼克拉斯地方那几哦【；asdl
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
