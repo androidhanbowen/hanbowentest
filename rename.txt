@@ -19,3 +19,10 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 
 this is the vim insert content;
+
+insert to github some message for my first test from away resiposity.
+
+
+
+
+
